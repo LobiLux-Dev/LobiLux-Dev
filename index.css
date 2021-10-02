@@ -1,0 +1,36 @@
+body{
+    background-image: url("https://cdn.discordapp.com/attachments/770434184413446197/893737555135176744/Sin_titulo_2.jpg");
+    background-repeat:no-repeat;
+    background-position: center;
+    background-attachment:fixed;
+}
+
+/* Ceneter Images */
+.center {
+    display: block;
+    margin: auto;
+}
+
+#banner {
+    margin-top: -6%;
+    width: 1000px;
+}
+
+#subfondo {
+    width: 1000px;
+    position: relative;
+    filter: opacity(10%);
+    z-index: -1;
+}
+
+#logo {
+    margin-top: -30%;
+    border-radius: 50%;
+    width:250px;
+}
+
+#titulo{
+    font-family: 'Anton', sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
