@@ -5,14 +5,14 @@ Hello, my name is Jose Luis Sanchez Vazquez, I am currently studying in high sch
 
 - 🌱 I am currently learning web development and GUI in Python and Java.
 - ⚡ Fun fact, my username (LobiLux) means cosmic furry
-- 🌐 My <a href="https://lobiluxuwu.github.io/LobiLuxUwU/" target="_blank">website</a> (*Developing*)
+- 🌐 My [website](https://lobiluxuwu.github.io/LobiLuxUwU/) (*Developing*)
 
 ---
 
 - 📫 Contact: 
     - <img src="https://cdn.discordapp.com/attachments/770434184413446197/893747731271675914/Discord-Logo.png" width="20px"> Discord LobiLux#5960 (*More Activity*)
     - <img src="https://cdn.discordapp.com/attachments/770434184413446197/893749897600335922/email_PNG100740.png" width="17px"> Email luis.sanchezz.vazquezz@gmail.com
-    - <img src="https://cdn.discordapp.com/attachments/770434184413446197/893748803486756924/twitter-logo-6.png" width="16px"> Twitter <a href="https://twitter.com/LobiLux_UwU" target="_blank">@LobiLuxUwU</a>
+    - <img src="https://cdn.discordapp.com/attachments/770434184413446197/893748803486756924/twitter-logo-6.png" width="16px"> Twitter [@LobiLuxUwU](https://twitter.com/LobiLux_UwU)
 
     ![Twitter Follow](https://img.shields.io/twitter/follow/LobiLux_UwU?label=@LobiLux_UwU&style=social)
     [![GitHub LobiLuxUwU](https://img.shields.io/github/followers/LobiLuxUwU?label=follow&style=social)](https://github.com/LobiLuxUwU)
