@@ -14,20 +14,20 @@ body{
 
 #banner {
     margin-top: -6%;
-    width: 1000px;
+    width: 50%;
 }
 
 #subfondo {
-    width: 1000px;
+    width: 50%;
     position: relative;
     filter: opacity(10%);
     z-index: -1;
 }
 
 #logo {
-    margin-top: -30%;
+    margin-top: -29%;
     border-radius: 50%;
-    width:250px;
+    width:13%;
 }
 
 #titulo{
