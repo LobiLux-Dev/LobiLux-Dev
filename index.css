@@ -12,8 +12,16 @@ body{
     margin: auto;
 }
 
+#div-left{
+    margin-top: 3%;
+    margin-left: -0%;
+    margin-right: 85%;
+    padding-bottom: 40%;
+    background-color: white;
+}
+
 #banner {
-    margin-top: -6%;
+    /*margin-top: -6%;*/
     width: 50%;
 }
 
