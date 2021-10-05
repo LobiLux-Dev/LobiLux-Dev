@@ -12,12 +12,8 @@ body{
     margin: auto;
 }
 
-#div-left{
-    margin-top: 3%;
-    margin-left: -0%;
-    margin-right: 85%;
-    padding-bottom: 40%;
-    background-color: white;
+#header{
+    margin-top: -3%;
 }
 
 #banner {
@@ -40,6 +36,30 @@ body{
 
 #titulo{
     font-family: 'Anton', sans-serif;
-    font-size: 50px;
+    font-size: 400%;
     text-align: center;
+}
+
+@media (max-width: 1920px) {
+    #titulo{
+        font-size: 350%;
+    }
+}
+
+@media (max-width: 1280px){
+    #titulo{
+        font-size: 250%;
+    }
+}
+
+@media (max-width: 900px){
+    #titulo{
+        font-size: 150%;
+    }
+}
+
+@media (max-width: 600px){
+    #titulo{
+        font-size: 100%;
+    }
 }
