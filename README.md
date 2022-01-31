@@ -1,4 +1,4 @@
-## **Hi, <img src="https://pa1.narvii.com/6815/8600738ab7d0431dedf9bbeb4fcc2e089396f4af_00.gif" width="25px"> I'm LobiLux, welcome to my profile, I hope you like it**
+## **Hi, <img src="./images/hi.gif" width="25px"> I'm LobiLux, welcome to my profile, I hope you like it**
 
 Hello, my name is Luis Sanchez, I am currently studying high school in the programming career, I consider myself self-taught because I learned most of my knowledge on my own, my career only helped me understand the bases and logic of programming.
 
