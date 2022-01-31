@@ -8,13 +8,13 @@ I currently consider myself a junior developer with knowledge in the following b
 - Java - Low Level
 - Python - Intermediate Level
 - HTML - Intermediate Level
-- CSS - Medium Level.
+- CSS - Medium Level
 
 My future goals are to learn to program videogames and what is necessary for machine learning.
 
 Curious facts UwU
 
-- 🌱 I am currently learning Front-End web development.
+- 🌱 I am currently learning Front-End web development
 - ⚡ Fun fact, my username (LobiLux) means cosmic furry
 - 🌐 My [website](https://lobilux.me) (_Developing_)
 
