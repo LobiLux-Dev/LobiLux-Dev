@@ -34,7 +34,7 @@ Curious facts
 <details open>
   <summary> 📌 <b>My Github Stats</b>: </summary>
   <br>
-  <p style="text-align: center">
+  <p align="center">
     <img src = "https://github-readme-stats.vercel.app/api?username=MeanyDev&count_private=true&show_icons=true&theme=midnight-purple">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MeanyDev&theme=midnight-purple&count_private=true&layout=compact&langs_count=6">
   </p>
