@@ -10,8 +10,8 @@ I currently consider myself a junior developer with knowledge in the following l
 - CSS - Low Level
 - C++ - Low Level
 - JavaScript - Low Level
-- HTML - Intermediate Level
 - Java - Intermediate Level
+- HTML - Intermediate Level
 - Python - Intermediate Level
 
 Two of my future plans are to get into video game programming and machine learning.
