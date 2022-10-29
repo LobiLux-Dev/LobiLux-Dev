@@ -1,35 +1,31 @@
-## **Hello my name is Luis Sanchez and welcome to my profile**
+## **Hello my name is Luis and welcome to my profile**
 
-Hello, my name is Luis Sanchez, I am currently studying high school in the programming career, I consider myself self-taught because I learned most of my knowledge on my own, my career only helped me to understand the bases and logic of programming.
+Hello, how are you, my name is Luis Sanchez, I am 17 years old, I am passionate about programming and I am currently studying programming, I consider myself self-taught because I learned most of my knowledge on my own, my career only helped me to understand the basic concepts and logic of programming.
 
 I currently consider myself a junior developer with knowledge in the following languages:
 
-- Go - Low Level
-- PHP - Low Level
 - SQL - Low Level
-- CSS - Low Level
-- C++ - Low Level
-- JavaScript - Low Level
+- CSS/SCSS - Low Level
 - Java - Intermediate Level
 - HTML - Intermediate Level
 - Python - Intermediate Level
+- JavaScript - Intermediate Level
 
 Two of my future plans are to get into video game programming and machine learning.
 
 Curious facts
 
 - 🌱 I am currently learning the necessary technologies to be Full-Stack
-- 🌐 My [website](https://lobilux.me) (_Developing_)
 
 ---
 
 - 📫 Contact:
-
-  - <img src="./src/img/discord_icon.png" width="20px"> Discord LobiLux#5960 (_More Activity_)
-  - <img src="./src/img/mail_icon.png" width="17px"> Email <a href="mailto:luis.sanchezz.vazquezz@gmail.com">luis.sanchezz.vazquezz@gmail.com</a>
-  -  <img src="./src/img/twitter_icon.png" width="16px"> Twitter [@LobiLuxUwU](https://twitter.com/LobiLux_UwU)
+  - <img src="https://i.imgur.com/ujmswms.png" width="20px"> Discord LobiLux#5960 (_More Activity_)
+  - <img src="https://i.imgur.com/LsIVsg1.png" width="17px"> Email <a href="mailto:luis.sanchezz.vazquezz@gmail.com">luis.sanchezz.vazquezz@gmail.com</a>
+  - <img src="https://i.imgur.com/1ArnLjZ.png" width="16px"> Twitter [@LobiLux_](https://twitter.com/LobiLux_)
 
 ---
+
 
 <details open>
   <summary> 📌 <b>My Github Stats</b>: </summary>
