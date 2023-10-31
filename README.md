@@ -1,37 +1,31 @@
-## **Hello my name is Luis and welcome to my profile**
+# **Luis Sanchez's Profile**
 
-Hello, how are you, my name is Luis Sanchez, I am 17 years old, I am passionate about programming and I am currently studying programming, I consider myself self-taught because I learned most of my knowledge on my own, my career only helped me to understand the basic concepts and logic of programming.
+Hello! I'm Luis Sanchez, an 18-year-old student of Computer Systems Engineering at the University. I'm passionate about programming, and my current favorite language is TypeScript. I work with the following JavaScript/TypeScript frameworks:
 
-I currently consider myself a junior developer with knowledge in the following languages:
+- [React](https://reactjs.org/)
+- [Express](https://expressjs.com/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [Chakra UI](https://chakra-ui.com/)
+- [Svelte](https://svelte.dev/)
+- [MongoDB](https://www.mongodb.com/)
 
-- SQL - Low Level
-- CSS/SCSS - Low Level
-- Java - Intermediate Level
-- HTML - Intermediate Level
-- Python - Intermediate Level
-- JavaScript - Intermediate Level
+I have two exciting future goals: video game programming and machine learning.
 
-Two of my future plans are to get into video game programming and machine learning.
+### Curious Facts
 
-Curious facts
+- 🌱 I consider myself a Full-Stack developer in the MERN stack.
 
-- 🌱 I am currently learning the necessary technologies to be Full-Stack
+### Contact
 
----
-
-- 📫 Contact:
-  - <img src="https://i.imgur.com/ujmswms.png" width="20px"> Discord LobiLux#5960 (_More Activity_)
-  - <img src="https://i.imgur.com/LsIVsg1.png" width="17px"> Email <a href="mailto:luis.sanchezz.vazquezz@gmail.com">luis.sanchezz.vazquezz@gmail.com</a>
-  - <img src="https://i.imgur.com/1ArnLjZ.png" width="16px"> Twitter [@LobiLux_](https://twitter.com/LobiLux_)
-
----
-
+- <img src="https://i.imgur.com/ujmswms.png" width="20px"> Discord: LobiLux#5960 (_More Activity_)
+- <img src="https://i.imgur.com/LsIVsg1.png" width="17px"> Email: [luis.sanchezz.vazquezz@gmail.com](mailto:luis.sanchezz.vazquezz@gmail.com)
+- <img src="https://i.imgur.com/1ArnLjZ.png" width="16px"> Twitter: [@LobiLux_](https://twitter.com/LobiLux_)
 
 <details open>
-  <summary> 📌 <b>My Github Stats</b>: </summary>
+  <summary> 📌 **My Github Stats** </summary>
   <br>
   <p align="center">
-    <img src = "https://github-readme-stats.vercel.app/api?username=LobiLux-Dev&count_private=true&show_icons=true&theme=midnight-purple">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LobiLux-Dev&theme=midnight-purple&count_private=true&layout=compact&langs_count=6">
+    <img src="https://github-readme-stats.vercel.app/api?username=LobiLux-Dev&count_private=true&show_icons=true&theme=midnight-purple">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LobiLux-Dev&theme=midnight-purple&count_private=true&layout=compact&langs_count=6&hide=html,css,scss,procfile,shell">
   </p>
 </details>
