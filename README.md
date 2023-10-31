@@ -22,7 +22,7 @@ I have two exciting future goals: video game programming and machine learning.
 - <img src="https://i.imgur.com/1ArnLjZ.png" width="16px"> Twitter: [@LobiLux_](https://twitter.com/LobiLux_)
 
 <details open>
-  <summary> 📌 **My Github Stats** </summary>
+  <summary> 📌 <h3><b>My Github Stats</b></h3> </summary>
   <br>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=LobiLux-Dev&count_private=true&show_icons=true&theme=midnight-purple">
